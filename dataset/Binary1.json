@@ -1,0 +1,19 @@
+{
+	"name": "Binary1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureFileStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "Alazab_Wellspring_of_Goodness"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureFileStorageLocation"
+			}
+		}
+	}
+}

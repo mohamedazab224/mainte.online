@@ -1,0 +1,12 @@
+{
+	"name": "AzureFileStorage1",
+	"properties": {
+		"type": "AzureFileStorage",
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		},
+		"description": "alazabdb",
+		"annotations": []
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "AzureFileStorage582",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0c579ddd-2f19-4175-9834-c43edc6b020d/resourceGroups/azabdb/providers/Microsoft.Storage/storageAccounts/azabapp",
+		"groupId": "file"
+	}
+}

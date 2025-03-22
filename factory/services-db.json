@@ -1,0 +1,14 @@
+{
+	"name": "services-db",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9e3b7a0-33e5-475c-867e-5639fd23a2b0",
+		"tenantId": "4ce36397-532f-4a7c-b1f6-edb970d69518"
+	}
+}
